@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FipeApi", "fipeApi\FipeApi.csproj", "{46573326-533B-41D6-84DF-15D15B997C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{AD07B708-9311-4B36-B789-90C1D422FE17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46573326-533B-41D6-84DF-15D15B997C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46573326-533B-41D6-84DF-15D15B997C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46573326-533B-41D6-84DF-15D15B997C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46573326-533B-41D6-84DF-15D15B997C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD07B708-9311-4B36-B789-90C1D422FE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD07B708-9311-4B36-B789-90C1D422FE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD07B708-9311-4B36-B789-90C1D422FE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD07B708-9311-4B36-B789-90C1D422FE17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1227A0DC-6297-43FF-B059-EC80324AEE8C}
+	EndGlobalSection
+EndGlobal
